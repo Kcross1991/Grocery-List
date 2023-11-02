@@ -1,6 +1,7 @@
 section{
     display:inline-block;
     background-color: rgb(255, 0, 119);
+    vertical-align: top;
 
 }
 h3{
@@ -17,11 +18,13 @@ img {
     width: 350px;
     border:dashed white 3px;
     padding:5px;
+    vertical-align: top;
+    height:max-content
 
-sectiom-n{
-    padding:1;
-    height: 150px;
-    margin:0%
+section{
+    padding: 2px;;
+    height: 50px;
+    margin: 0% 10px;
 }
 ol{
     font-style: italic;
