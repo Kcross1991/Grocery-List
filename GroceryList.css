@@ -16,10 +16,11 @@ h1{text-align: center;
 img {
     width: 350px;
     border:dashed white 3px;
-    padding:5px
+    padding:5px;
+   vertical-align: right;
 }
 sectiom-n{
-    padding: 3px;
+    padding:1;
     height: 150px;
     margin:0%
 }
