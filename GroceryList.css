@@ -1,0 +1,33 @@
+section{
+    display:inline-block;
+    background-color: rgb(255, 0, 119);
+
+}
+h3{
+text-align: center;
+background-color: rgb(225, 25, 209);
+margin: 10px;
+
+}
+h2{background-color: antiquewhite;
+margin: 10;}
+h1{text-align: center;
+-webkit-text-fill-color:blueviolet}
+img{
+    padding: 1px;
+    height:150px ;
+    margin: 1px;0 px;
+    text-align: center;
+    border-style:double;
+    alig
+}
+sectiom-n{
+    padding: 3px;
+    height: 150px;
+    margin:0%
+}
+.column{
+    float:right
+    width:33.33%
+    
+}
