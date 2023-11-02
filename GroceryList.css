@@ -13,8 +13,7 @@ h2{background-color: antiquewhite;
 margin: 10;}
 h1{text-align: center;
 -webkit-text-fill-color:blueviolet}
-img{
-    display:inline-flex;
+img {
     width: 350px;
     border:dashed white 3px;
     padding:5px
@@ -23,4 +22,8 @@ sectiom-n{
     padding: 3px;
     height: 150px;
     margin:0%
+}
+ol{
+    font-style: italic;
+    -webkit-text-fill-color: bisque;
 }
