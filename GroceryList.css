@@ -14,20 +14,12 @@ margin: 10;}
 h1{text-align: center;
 -webkit-text-fill-color:blueviolet}
 img{
-    padding: 1px;
-    height:150px ;
-    margin: 1px;0 px;
-    text-align: center;
-    border-style:double;
-    alig
+    display:inline-flex;
+    width: 300px;
+    height:300px;
 }
 sectiom-n{
     padding: 3px;
     height: 150px;
     margin:0%
-}
-.column{
-    float:right
-    width:33.33%
-    
 }
