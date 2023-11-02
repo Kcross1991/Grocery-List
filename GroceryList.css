@@ -2,6 +2,8 @@ section{
     display:inline-block;
     background-color: rgb(255, 0, 119);
     vertical-align: top;
+    width: 100;
+
 
 }
 h3{
@@ -19,7 +21,8 @@ img {
     border:dashed white 3px;
     padding:5px;
     vertical-align: top;
-    height:max-content
+    height:max-content;
+    display: inline-block;
 
 section{
     padding: 2px;;
